@@ -16,7 +16,7 @@ const ExpenseForm = () => {
     amount: "",               
     categoryId: "",          
     note: "",                
-    date: "",                
+    date: ""                
   });
   
   const { 
