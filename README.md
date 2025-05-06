@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# my-project
+Projects developed 
+It is a simple project on React Expense Tracker. 
+Only the user side mechanism is done.
+login id: 1> test_1@gmail.com
+          2>test_2@gmail.com
+No registration can be done here. Only for view purpose it is created.
+          
+>>>>>>> 6314e3bf57956ba8cb064118b67c6f1e1f111e3f
