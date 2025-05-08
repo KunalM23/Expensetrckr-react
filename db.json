@@ -4,13 +4,13 @@
       "id": "1",
       "name": "John Doe",
       "email": "test_1@gmail.com",
-      "password": "$2b$12$0ZI9IjQ6uQXdfYtYpC5VVufvRwqlAOgmbxWpFepamavnAhHGPV5Dy"
+      "password": "$2b$12$sZWD5yXEuEsmHhwEgGv4HuhGCFZoFtW98bJU2T5esYAnYcrMVIMKm"
     },
     {
       "id": "2",
       "name": "Jane Smith",
       "email": "test_2@gmail.com",
-      "password": "$2b$12$0ZI9IjQ6uQXdfYtYpC5VVufvRwqlAOgmbxWpFepamavnAhHGPV5Dy"
+      "password": "$2b$12$sZWD5yXEuEsmHhwEgGv4HuhGCFZoFtW98bJU2T5esYAnYcrMVIMKm"
     }
   ],
   "category": [
