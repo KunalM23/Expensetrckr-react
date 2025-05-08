@@ -2,7 +2,7 @@
   "name": "expensetracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kunalm23.github.io/Expensetrckr-react",
+  "homepage": "https://KunalM23.github.io/Expensetrckr-react",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
